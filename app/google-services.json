@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023262602540",
+    "firebase_url": "https://english-lessons-8a3d9.firebaseio.com",
+    "project_id": "english-lessons-8a3d9",
+    "storage_bucket": "english-lessons-8a3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023262602540:android:94985e7fc8a6985d",
+        "android_client_info": {
+          "package_name": "com.mobidroid.englishlessons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023262602540-045kqm92dt7r0pjontena6uejom70tdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobidroid.englishlessons",
+            "certificate_hash": "f929d71ad546fb62786c043fa5be3a4163e6f126"
+          }
+        },
+        {
+          "client_id": "1023262602540-qpuarerothrkkoc5tu5kq5fqfuukcf3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB634DeVOCNQZovqWg5uS2EcXIGWYiM3a0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023262602540-qpuarerothrkkoc5tu5kq5fqfuukcf3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
